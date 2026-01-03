@@ -7,4 +7,4 @@ A Personal repository for learning and practicing**C Programming**💻
 
 -swaping.c – Code for swapping two numbers (using third variable).
 
--The program uses a switch-case statement to determine which operation to perform based on the operator.
+arthematic.c - The program uses a switch-case statement to determine which operation to perform based on the operator.
