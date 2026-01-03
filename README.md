@@ -9,4 +9,4 @@ A Personal repository for learning and practicing**C Programming**💻
 
 - arthematic.c - The program uses a switch-case statement to determine which operation to perform based on the operator.
 
-- Matrix.c -  
+- Matrix.c -  The code is a C program that transposes a 3x3 matrix, taking user input for the original matrix and printing the transposed result.
