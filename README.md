@@ -10,3 +10,7 @@ A Personal repository for learning and practicing**C Programming**💻
 - arthematic.c - The program uses a switch-case statement to determine which operation to perform based on the operator.
 
 - Matrix.c -  The code is a C program that transposes a 3x3 matrix, taking user input for the original matrix and printing the transposed result.
+
+- Armstrong.c - A simple program that checks if a given number is an Armstrong number or not .
+
+- Palindrome.c - Palindrome Checker: Checks if a string/number is same forward & backward.
