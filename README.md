@@ -14,3 +14,7 @@ A Personal repository for learning and practicing**C Programming**💻
 - Armstrong.c - A simple program that checks if a given number is an Armstrong number or not .
 
 - Palindrome.c - Palindrome Checker: Checks if a string/number is same forward & backward.
+
+- Fibonacci series.c - Fibonacci series is a sequence where each number is the sum of the two preceding ones, typically starting with 0 and 1.
+
+- 
