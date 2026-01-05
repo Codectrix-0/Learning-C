@@ -17,4 +17,4 @@ A Personal repository for learning and practicing**C Programming**💻
 
 - Fibonacci series.c - Fibonacci series is a sequence where each number is the sum of the two preceding ones, typically starting with 0 and 1.
 
-- 
+- Linear Search.c - Binary search is a highly efficient "divide and conquer" algorithm used in C to find the position of a target value within a sorted array.
