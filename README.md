@@ -22,4 +22,6 @@ A Personal repository for learning and practicing**C Programming**💻
 - delete_element_from_array.c - This shifts elements left from `pos` and reduces array size `n`.
 
 - Array inserter.c - The *Array Inserter* program is used to insert a new element into an existing array at a specified position, shifting the other elements to make space for it.
+
+- Student_grade_calculator.c - The code *calculates* the sum of input marks, computes their percentage, and *assigns* a grade using `if‑else` conditions.
   
